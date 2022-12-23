@@ -1,4 +1,4 @@
-## Welcome to Juicer Web
+## Welcome to KAIA Web
 
 ### Privacy Policy
 
