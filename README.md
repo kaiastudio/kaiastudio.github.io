@@ -1,11 +1,11 @@
-## Welcome to KAIA Web
+## Welcome
 
 ### Privacy Policy
 
-The Word Tour application was created by Kal Anthony as an ad-supported app. Kal Anthony provides this SERVICE at no cost and it is intended for use as is.
+This application was created by Kal Anthony as an ad-supported app. Kal Anthony provides this SERVICE at no cost and it is intended for use as is.
 This page is intended to inform visitors about my policies regarding the collection, use, and disclosure of Personal Information if they choose to use my Service.
 If you use my Service, you agree to the collection and use of information in accordance with this policy. I collect Personal Information in order to provide and improve the Service. Except as described in this Privacy Policy, I will not use or share your information with anyone.
-Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as those in our Terms and Conditions, which are available at Word Tour.
+Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as those in our Terms and Conditions, which are available in the application.
 
 **Information Collection and Use**
 
