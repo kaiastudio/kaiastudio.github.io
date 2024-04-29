@@ -17,8 +17,6 @@ The app does make use of third-party services, which may gather information that
 
 [Google Play Services](https://www.google.com/policies/privacy/)
 
-[Appodeal](https://www.appodeal.com/home/privacy-policy/)
-
 [Facebook](https://www.facebook.com/about/privacy/update/printable)
 
 **Log Data**
