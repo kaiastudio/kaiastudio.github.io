@@ -1095,3 +1095,5 @@ zetaglobal.net, 815, RESELLER
 zmaticoo.com, 5135063, RESELLER
 zmaticoo.com, 5135195, RESELLER
 zmaticoo.com, 5135704, RESELLER
+google.com, pub-6512057586209925, DIRECT
+
