@@ -1,3 +1,4 @@
+OWNERDOMAIN=kaiastudio.github.io
 applovin.com, ae31018b958c9eec67db4006776d2247, DIRECT
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
@@ -1361,3 +1362,4 @@ triplelift.com, 11608, RESELLER, 6c33edb13117fd86
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 3704396951, RESELLER
 xad.com, 2524, RESELLER, 81cbf0a75a5e0e9a
+
