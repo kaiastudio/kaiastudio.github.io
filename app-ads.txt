@@ -1619,4 +1619,4 @@ adyoulike.com,3323ea5ad6781cb791c7ef36eef9bc71,RESELLER
 conversantmedia.com,101206,RESELLER,03113cd04947736d
 Mobupps.com,c74d97b01eae257e44aa9d5bade97baf32926,RESELLER
 pubmatic.com,166385,RESELLER,5d62403b186f2ace
-managerdomain=anzu.io,in-game
+facebook.com, 2085570115347877, DIRECT, c3e20eee3f780d68
